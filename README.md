@@ -126,3 +126,5 @@ This project was a collaborative effort by **lnaamneh** and **rajlouni**.
 **AI Usage:**
 - Used AI to brainstorm algorithmic trade-offs across stack architectures.
 - Used AI to write Bash test scripts and generate randomized test suites with edge cases (duplicates, sorted sequences, INT_MIN/INT_MAX bounds, and random flags).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
